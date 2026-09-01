@@ -10,7 +10,9 @@ Circuit breakers on incoming transformer feeders are critical protection compone
 
 ## Dataset
 - **Source**: SCADA/MCGS sensor logs for the incoming CB of a power transformer (anonymized)
-**Note**: Temperature sensor data was obtained from a transformer unit belonging to PT PLN (Persero). Location details, asset IDs, and specific unit identities have been anonymized to maintain the confidentiality of the company's operational data. This project was created for learning and personal portfolio purposes and does not constitute an official representation of PLN.
+
+>**Note**: Temperature sensor data was obtained from a transformer unit belonging to PT PLN (Persero). Location details, asset IDs, and specific unit identities have been anonymized to maintain the confidentiality of the company's operational data. This project was created for learning and personal portfolio purposes and does not constitute an official representation of PLN.
+
 - **Time column**: `MCGS_TIME` (timestamp, ~5-minute intervals)
 - **Sensor columns**:
   - `R ATAS INC CB`, `S ATAS INC CB`, `T ATAS INC CB` (top terminal, phases R/S/T)
