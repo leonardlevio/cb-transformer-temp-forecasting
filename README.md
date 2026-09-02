@@ -9,7 +9,7 @@ This project develops a machine learning-based forecasting system to predict the
 Circuit breakers on incoming transformer feeders are critical protection components. Overheating at CB contact/terminal points can indicate loose connections, contact degradation, or overloading — all of which can lead to insulation failure, tripping, or unplanned outages. By continuously monitoring and forecasting temperature trends across six sensor points (R/S/T phases, top and bottom terminals of the CB), maintenance teams can act proactively instead of reactively.
 
 ## Dataset
-- **Source**: SCADA/MCGS sensor logs for the incoming CB of a power transformer (anonymized)
+- **Source**: Sensor logs for the incoming CB of a power transformer (anonymized)
 
 >**Note**: Temperature sensor data was obtained from a transformer unit belonging to PT PLN (Persero). Location details, asset IDs, and specific unit identities have been anonymized to maintain the confidentiality of the company's operational data. This project was created for learning and personal portfolio purposes and does not constitute an official representation of PLN.
 
